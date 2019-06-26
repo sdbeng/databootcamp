@@ -1,3 +1,3 @@
 # databootcamp
 
-import the excange api as flat csv file
+import the exchange api as flat csv file
